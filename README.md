@@ -1,6 +1,6 @@
 # anime_discovery_app
 
-Welcome to the Anime Discovery App, a Flutter application designed to help users discover anime and explore their details dynamically. This app integrates GraphQL for fetching anime data and showcases modern Flutter UI principles.
+Welcome to the Anime Discovery App, a Flutter application designed to help users discover anime and explore their details dynamically. This app integrates GraphQL for fetching anime data, Bloc for state management and showcases modern Flutter UI principles.
 
 ## Features
 - Anime Discovery: Fetch and display anime details dynamically.
@@ -20,12 +20,12 @@ Before you begin, ensure you have the following installed:
 
 ## Installation
 - git clone https://github.com/your-username/anime-discovery-app.git
-- Navigate to the project directory:
-- cd anime-discovery-app
-- Install dependencies:
-- flutter pub get
-- Run the app:
-- flutter run
+- Navigate to the project directory:  cd anime-discovery-app
+
+- Install dependencies: flutter pub get
+  
+- Run the app: flutter run
+ 
 
 
 A few resources to get you started if this is your first Flutter project:
@@ -38,3 +38,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShot
+ ![22ad0d58-34c6-4766-909a-80d370a67a6c](https://github.com/user-attachments/assets/b878314a-8be4-4f3e-8fd9-d3e19b789d37)
+
