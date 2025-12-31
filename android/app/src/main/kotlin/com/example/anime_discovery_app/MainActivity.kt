@@ -1,4 +1,4 @@
-package com.example.anime_discovery_app
+package com.app.anime_discovery_app
 
 import io.flutter.embedding.android.FlutterActivity
 

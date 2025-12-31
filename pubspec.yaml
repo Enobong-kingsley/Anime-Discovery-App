@@ -37,7 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.6
   flutter_bloc:
   flutter_reaction_button: ^3.0.0+3
-  graphql_flutter: ^5.1.2
+  graphql_flutter: ^5.2.0
+  flutter_launcher_icons: ^0.14.4
+  # connectivity_plus: ^6.0.5
 
 dev_dependencies:
   flutter_test:
