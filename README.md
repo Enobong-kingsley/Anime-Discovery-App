@@ -1,4 +1,4 @@
-# anime_discovery_app
+# ANIME DISCOVERY APP (ANIMEMUSE)
 
 Welcome to the Anime Discovery App, a Flutter application designed to help users discover anime and explore their details dynamically. This app integrates GraphQL for fetching anime data, Bloc for state management and showcases modern Flutter UI principles.
 
@@ -34,9 +34,14 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShot
- ![22ad0d58-34c6-4766-909a-80d370a67a6c](https://github.com/user-attachments/assets/b878314a-8be4-4f3e-8fd9-d3e19b789d37)
+ 
+<img width="1536" height="1024" alt="Discover your next anime match" src="https://github.com/user-attachments/assets/98f51663-a764-4818-9143-b72d6f9c0552" />
+*
+<img width="1536" height="1024" alt="AnimeMuse app features in action" src="https://github.com/user-attachments/assets/e9bef8ba-44b0-4843-900f-c9894cc64e4b" />
+*
+<img width="1536" height="1024" alt="AnimeMuse app highlights on tablet screens" src="https://github.com/user-attachments/assets/044055a8-218b-4a28-ae25-dfe720847da4" />
+
 
